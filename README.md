@@ -27,8 +27,6 @@
       </p>
     </samp>
   </div>
-  
-  
     <summary>💻 GitHub Profile Stats</summary>
     <div>
       <h2 align="center"> 📊 Github stats </h2>
