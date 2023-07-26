@@ -14,7 +14,6 @@
     <img src="https://profile-counter.glitch.me/eddaouissam/count.svg" />
   </p>
   
- <summary>☎️ Contact</summary>
   <div>
     <samp>
       <h2 align="center">😎 </h2>
@@ -27,7 +26,6 @@
       </p>
     </samp>
   </div>
-    <summary>💻 GitHub Profile Stats</summary>
     <div>
       <h2 align="center"> 📊 Github stats </h2>
         <br/>
