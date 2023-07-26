@@ -14,7 +14,7 @@
     <img src="https://profile-counter.glitch.me/eddaouissam/count.svg" />
   </p>
   
-    <summary>☎️ Contact</summary>
+ <summary>☎️ Contact</summary>
   <div>
     <samp>
       <h2 align="center">😎 </h2>
