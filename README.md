@@ -19,7 +19,7 @@
       <h2 align="center">😎 </h2>
       <p align="center">
         <br/>
-        <a href="https://www.linkedin.com/in/eddaouissam/](https://www.linkedin.com/in/m’hamed-issam-ed-daou-045674211/" target="blank"><img align="center"
+        <a href="https://www.linkedin.com/in/m’hamed-issam-ed-daou-045674211/" target="blank"><img align="center"
            src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
            alt="azzar" height="30"/></a>
       </p>
