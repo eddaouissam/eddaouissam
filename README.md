@@ -16,7 +16,7 @@
   
   <div>
     <samp>
-      <h2 align="center">😎 </h2>
+      <h2 align="center">⚙️ </h2>
       <p align="center">
         <br/>
         <a href="https://www.linkedin.com/in/m’hamed-issam-ed-daou-045674211/" target="blank"><img align="center"
@@ -34,7 +34,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddaouissam&langs_count=4&theme=gruvbox&layout=compact&hide_border=true" alt="med-be :: Top Langs" /></a>
           </p>
           <p align="center">
-            <a href="https://github.com/eddaouissam">
+            <a href="eddaouissam.github.io">
             <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=eddaouissam&show_icons=true&theme=gruvbox&hide_border=true" />
             <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddaouissam&theme=gruvbox&hide_border=true" />
             </a>
