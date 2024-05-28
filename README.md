@@ -25,19 +25,5 @@
       </p>
     </samp>
   </div>
-    <div>
-      <h2 align="center"> 📊 Github stats </h2>
-        <br/>
-          <p align="center">
-            <a href="https://github.com/eddaouissam">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddaouissam&langs_count=4&theme=gruvbox&layout=compact&hide_border=true" alt="med-be :: Top Langs" /></a>
-          </p>
-          <p align="center">
-            <a href="eddaouissam.github.io">
-            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=eddaouissam&show_icons=true&theme=gruvbox&hide_border=true" />
-            <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddaouissam&theme=gruvbox&hide_border=true" />
-            </a>
-         </p>
-       <br>
-    </div>    
+   
   
